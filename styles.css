@@ -1,0 +1,61 @@
+body {
+   
+}
+
+
+div.mainContainer {
+    background: #EA664A; 
+    width: 90%; 
+    padding: 50px 0px; 
+
+}
+
+div.textAnalyzer {
+    border: 2px solid black; 
+    border-radius: 10px; 
+    display: block; 
+    margin: 10px 0; 
+    padding: 0px 0px 5px 5px; 
+    
+}
+
+div.textAnalyzer h2 {
+    margin-left: 5px; 
+
+
+}
+
+
+div.textAnalyzer label {
+    display: inline-block; 
+    margin: 0px 0px 5px 5px; 
+}
+
+div.textAnalyzer button {
+    display: block; 
+    margin: 0px 0px 5px 5px; 
+
+}
+
+
+div.imageAnalyzer {
+    border: 2px solid black; 
+    border-radius: 10px; 
+    display: block; 
+}
+
+div.imageAnalyzer h2 {
+    margin-left: 5px; 
+
+}
+
+
+div.imageAnalyzer label {
+    display: inline-block; 
+    margin: 0px 0px 5px 5px; 
+}
+
+div.imageAnalyzer button {
+    display: block; 
+    margin: 0px 0px 5px 5px; 
+}
